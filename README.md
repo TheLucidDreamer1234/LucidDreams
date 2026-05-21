@@ -25,4 +25,7 @@ The interact key can be used for more than just talking.
 The game should take aproximatively 10 - 20 mins long.
 There are 6 main achievements that you can find.
 
+//STARTING THE GAME
+To start the game, press the run button while in the gamemaker editor.
+
 Have fun!
