@@ -1,3 +1,8 @@
+//THIS VERSION IS A TEST THE GAME IS NOT 100% COMPLETE!
+
+
+
+
 READ ME
 
 This game was made as a hobby,
