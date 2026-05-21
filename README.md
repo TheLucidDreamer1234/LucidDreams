@@ -14,9 +14,12 @@ and you are also free to make fanarts of my characters (if you credit me of cour
 this game is still in beta so please report to me any bugs you find, thank you!
 
 
-//CONTROLS
-MOVEMENT: Arrow keys or WASD
-INTERACT:ENTER or SPACE (It's safer to use enter, space might not always work)
+//CONTROLS.
+
+MOVEMENT: Arrow keys or WASD.
+
+INTERACT:ENTER or SPACE (It's safer to use enter, space might not always work).
+
 The interact key can be used for more than just talking.
 
 The game should take aproximatively 10 - 20 mins long.
