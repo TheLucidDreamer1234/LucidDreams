@@ -9,7 +9,7 @@ This game was made as a hobby,
 Please do not take any of it seriously.
 
 
-For permissions, you are free to use my code if you want you're game to be trash (pls credit me tho),
+For permissions, you are free to use my code if you want your game to be trash (pls credit me tho),
 and you are also free to make fanarts of my characters (if you credit me of course),
 this game is still in beta so please report to me any bugs you find, thank you!
 
@@ -22,7 +22,7 @@ INTERACT:ENTER or SPACE (It's safer to use enter, space might not always work).
 
 The interact key can be used for more than just talking.
 
-The game should take aproximatively 10 - 20 mins long.
+The game should take aproximatively an hour if you want to finish it entirely .
 There are 6 main achievements that you can find.
 
 //STARTING THE GAME
